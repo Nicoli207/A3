@@ -1,14 +1,13 @@
+# Especially for Python Assignment3
+*.csv
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
-
-# Especially for Amy to grade
-*.csv
-.ipynb_checkpoints/
 # Distribution / packaging
 .Python
 build/
