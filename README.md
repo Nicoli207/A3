@@ -42,3 +42,13 @@ Data Visualization
 
 Reason for Choosing This Dataset
 I chose this dataset because diabetes runs in my family, and I have already been diagnosed as being in the prediabetic stage. Given this personal connection, I wanted to gain a deeper understanding of diabetes-related factors and explore how different health metrics contribute to the risk of developing diabetes. By analyzing this dataset, I aim to identify key indicators that influence diabetes onset and progression, which may help in making informed lifestyle adjustments and promoting early prevention strategies.
+
+
+The current work combined two datasets. The other datasets used is from the link listed as follows.
+https://www.kaggle.com/code/chongchong33/predicting-hospital-readmission-of-diabetics/input?select=diabetic_data.csv
+
+Improved Predictive Power is the reason why I merge these two datasets.
+
+Now with a merged dataset that combines medical history with hospital readmission records. 
+Means that I am being able to use this for predictive modeling to determine which diabetic patient group are at higher risk of hospital readmission.
+
